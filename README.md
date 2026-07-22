@@ -1,7 +1,6 @@
 <div align="center">
 
 # Xzen Game Compressor - Higanbana
-# On Pause for a While
 
 **A Windows game storage utility for NTFS compression, decompression verification, and FSR package management.**
 
